@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Rajarshi Tiwari
+ - Place: Kanpur,India
+ - Bio: Student of HBTU-K,India.
+ - GitHub: [Rajarshi Tiwari](https://github.com/rajarshi-hub)
